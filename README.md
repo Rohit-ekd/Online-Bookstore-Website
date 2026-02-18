@@ -132,15 +132,5 @@ npm start
 - **Hover States**: Every button and card has hover effects
 - **Transitions**: Smooth transitions with duration-300
 
-## Deployment
 
-Deploy on Vercel (free):
 
-1. Push your code to GitHub
-2. Go to [Vercel](https://vercel.com)
-3. Import your repository
-4. Deploy!
-
-## License
-
-MIT License
