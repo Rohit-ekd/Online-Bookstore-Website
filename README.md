@@ -132,5 +132,6 @@ npm start
 - **Hover States**: Every button and card has hover effects
 - **Transitions**: Smooth transitions with duration-300
 
+Deployment link:https://online-bookstore-website-ot8b.vercel.app/
 
 
